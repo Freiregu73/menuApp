@@ -22,16 +22,19 @@
 
         <com.google.android.material.tabs.TabItem
             android:layout_width="wrap_content"
+            android:icon="@drawable/baseline_fiber_new"
             android:layout_height="wrap_content"
             android:text="Novas" />
 
         <com.google.android.material.tabs.TabItem
             android:layout_width="wrap_content"
+            android:icon="@drawable/baseline_compare_arrows"
             android:layout_height="wrap_content"
             android:text="Usadas" />
 
         <com.google.android.material.tabs.TabItem
             android:layout_width="wrap_content"
+            android:icon="@drawable/baseline_pedal_bike"
             android:layout_height="wrap_content"
             android:text="Coleção" />
 
